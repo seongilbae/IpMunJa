@@ -5,3 +5,8 @@ opcode.txt가 opcode_malware.txt, opcode_benign.txt이므로 착오가 길 바�
 parsing.py 코드는 그대로 사용하시면 opcode.txt를 파싱한 것처럼 정상파일과 악성코드의 opcode를 하나의 result.csv 파일로 생성합니다.
 
 나머지는 동일하기 때문에 그대로 사용하시면 됩니다. 
+
+악성코드 다운로드 사이트 
+~~
+~~
+~~
