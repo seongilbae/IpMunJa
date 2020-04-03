@@ -6,7 +6,8 @@
 분석도구
 -------
 1. 정적 분석
-- [HxD](link)>>>ㅇ
+- [HxD](link) 
+>
 - [PEiD](link)
 - [PEView](link)
 
