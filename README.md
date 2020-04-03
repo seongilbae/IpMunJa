@@ -6,41 +6,32 @@
 분석도구
 -------
 1. 정적 분석
-```
 - HxD
   - [HxD](link)
 - PEiD
   - [PEiD](link)
 - PEView
   - [PEView](link)
-```
 
 2. 동적 분석
-```
 - WireShark
   - [WireShark](link)
 - API Monitor
   - [API Monitor](link)
 - Process Explorer
   - [Process Explorer](link)
-```
 
 3. 상세 분석
-```
 - IDA(Pro, Demo, Freeware)
   - [IDA](link)
 - OllyDbg
   - [OllyDbg](link)
-```
 
 아나콘다 및 Python 라이브러리
 ---------------------------
 1. 아나콘다
-```
   - [Anaconda](link)
-```
 2. Python 라이브러리
-```
   - SciPy
     - [SciPy](link)
   - Matplotlib
@@ -51,7 +42,6 @@
     - [Jupyter Notebook](link)
   - Scikit-Learn
     - [Scikit-Learn](link)
-```
 
 
 
