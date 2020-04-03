@@ -1,12 +1,20 @@
-opcode.txt는 정상파일에서 추출한 것과 악성코드에서 추출한 것 두 가지가 있기 때문에 opcode_malware.txt, opcode_benign.txt로 구분해놨습니다.
+# 파일 설명
 
-opcode.txt가 opcode_malware.txt, opcode_benign.txt이므로 착오가 길 바랍니다.
+## opcode_benign.txt
+정상파일에서 추출한 opcode 목록
 
-parsing.py 코드는 그대로 사용하시면 opcode.txt를 파싱한 것처럼 정상파일과 악성코드의 opcode를 하나의 result.csv 파일로 생성합니다.
+## opcode_malware.txt
+악성코드에서 추출한 opcode 목록
 
-나머지는 동일하기 때문에 그대로 사용하시면 됩니다. 
+## init.csv
+사용되는 모든 opcode 리스트
 
-악성코드 다운로드 사이트 
-~~
-~~
-~~
+## result.csv
+init.csv, opcode_benign.txt, opcode_malware.txt를 하나로 모아 라벨링한 csv 파일
+머신러닝 코드에 입력
+
+## parser.py
+opcode_benign.txt, opcode_malware.txt를 result.csv 파일로 만드는 파이썬 스크립트
+
+## MLcode.py
+result.csv를 입력받아 머신러닝 학습 및 분류하는 파이썬 스크립트
