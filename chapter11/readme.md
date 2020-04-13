@@ -1,10 +1,10 @@
 # 파일 설명
 
 ## opcode_benign.txt
-정상파일에서 추출한 opcode 목록
+IDA Pro, IDAPython을 이용해 정상파일에서 추출한 opcode
 
 ## opcode_malware.txt
-악성코드에서 추출한 opcode 목록
+IDA Pro, IDAPython을 이용해 악성코드에서 추출한 opcode
 
 ## init.csv
 사용되는 모든 opcode 리스트
