@@ -15,6 +15,6 @@ init.csv, opcode_benign.txt, opcode_malware.txt를 하나로 모아 라벨링한
 
 ## parser.py
 opcode_benign.txt, opcode_malware.txt를 result.csv 파일로 만드는 파이썬 스크립트
-
+조금 더 상세한 설명 
 ## MLcode.py
 result.csv를 입력받아 머신러닝 학습 및 분류하는 파이썬 스크립트
