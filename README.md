@@ -6,28 +6,27 @@
 분석도구
 -------
 1. 정적 분석
-- [HxD](link) 
->
-- [PEiD](link)
-- [PEView](link)
+- [HxD](https://mh-nexus.de/en/hxd/) 
+- [PEiD](https://www.aldeid.com/wiki/PEiD)
+- [PEView](http://wjradburn.com/software/)
 
 2. 동적 분석
-- [WireShark](link)
-- [API Monitor](link)
-- [Process Explorer](link)
+- [WireShark](https://www.wireshark.org/)
+- [API Monitor](http://www.rohitab.com/apimonitor)
+- [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 
 3. 상세 분석
-- [IDA(Pro, Demo, Freeware)](link)
-- [OllyDbg](link)
+- [IDA(Pro, Demo, Freeware)](https://www.hex-rays.com/)
+- [OllyDbg](http://www.ollydbg.de/)
 
 아나콘다 및 Python 라이브러리
 ---------------------------
-- [Anaconda](link)
-- [SciPy](link)
-- [Matplotlib](link)
-- [Pandas](link)
-- [Jupyter Notebook](link)
-- [Scikit-Learn](link)
+- [Anaconda](https://www.anaconda.com/)
+- [SciPy](https://www.scipy.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+- [Scikit-Learn](https://scikit-learn.org/stable/#)
 
 *****
 
@@ -41,8 +40,6 @@
 |#5|OverFlow_ex.exe|제 7장 버퍼 오버플로우 실습|
 |#6|SIB.zip|제 10장 악성코드 분석 실습|
 *****
->>>ㅇ
-<<<ㅇ
-|ㅇ
+
 **본 책에서 제공하는 모든 실습파일을 실습목적 외에 사용하거나 악용하여 발생하는 책임은 모두 사용자 본인에게 있습니다.**
 
