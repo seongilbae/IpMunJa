@@ -3,7 +3,7 @@
 각 챕터별 실습 파일이 업로드되어 있습니다.
 실습을 진행하기 전, 다운받아 사용하시길 바랍니다.
 *****
-<center><img src = "https://user-images.githubusercontent.com/29698869/80469373-70857a80-897b-11ea-9a1f-9e009f0e8442.JPG" width="300" height="300"></center>
+<img src = "https://user-images.githubusercontent.com/29698869/80469373-70857a80-897b-11ea-9a1f-9e009f0e8442.JPG">
 
 실습 파일에 대한 설명입니다.
 |번호|폴더 명|설명|
