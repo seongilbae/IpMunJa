@@ -4,7 +4,7 @@
 실습을 진행하기 전, 다운받아 사용하시길 바랍니다.
 *****
 ![ipmunja](https://user-images.githubusercontent.com/29698869/80468949-d9202780-897a-11ea-814a-daaffb00fcdd.JPG)
-
+<center><img src = "https://user-images.githubusercontent.com/29698869/80469373-70857a80-897b-11ea-9a1f-9e009f0e8442.JPG"></center>
 실습 파일에 대한 설명입니다.
 |번호|폴더 명|설명|
 |:---:|:---:|:---:|
