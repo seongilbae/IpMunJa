@@ -41,6 +41,6 @@
 - [Scikit-Learn](https://scikit-learn.org/stable/#)
 
 *****
-
+[![HitCount](http://hits.dwyl.com/Sib/seongilbae/IpMunJa.svg)](http://hits.dwyl.com/Sib/seongilbae/IpMunJa)
 ***본 책에서 제공하는 모든 실습파일을 실습목적 외에 사용하거나 악용하여 발생하는 책임은 모두 사용자 본인에게 있습니다.***
 
