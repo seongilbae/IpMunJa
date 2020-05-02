@@ -1,4 +1,4 @@
-입문자를 위한 컴퓨터 보안
+입문자를 위한 컴퓨터 보안 [![HitCount](http://hits.dwyl.com/Sib/seongilbae/IpMunJa.svg)](http://hits.dwyl.com/Sib/seongilbae/IpMunJa)
 ============================================
 각 챕터별 실습 파일이 업로드되어 있습니다.
 실습을 진행하기 전, 다운받아 사용하시길 바랍니다.
@@ -41,6 +41,6 @@
 - [Scikit-Learn](https://scikit-learn.org/stable/#)
 
 *****
-[![HitCount](http://hits.dwyl.com/Sib/seongilbae/IpMunJa.svg)](http://hits.dwyl.com/Sib/seongilbae/IpMunJa)
+
 ***본 책에서 제공하는 모든 실습파일을 실습목적 외에 사용하거나 악용하여 발생하는 책임은 모두 사용자 본인에게 있습니다.***
 
