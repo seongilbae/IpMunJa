@@ -1,6 +1,13 @@
+# for python 2
 import hashlib
 import ttk
 from Tkinter import *
+# for python 3
+"""
+import hashlib
+from tkinter import ttk
+from tkinter import *
+"""
 
 tk = Tk()
 input_ = StringVar()
